@@ -140,9 +140,7 @@ For more details, refer to the associated research paper: [Advanced Knowledge Re
 ---
 
 ## **Contributors**
-- **Om Umrania** - Lead Developer
-- **Collaborators:** Aayush Chaudhary, Yashada Nalawade, Suvarna Patil, Atharva Vyas, Sneha Kanawade
-
+- **Siddhant More** - Lead Developer
 ---
 
 ## **License**
